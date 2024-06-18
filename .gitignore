@@ -1,0 +1,9 @@
+
+.git
+.vscode
+CMakeFiles
+ToMakeDesktop.exe
+Makefile
+deps
+docs
+libs
